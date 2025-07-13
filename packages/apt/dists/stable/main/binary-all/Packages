@@ -1,0 +1,17 @@
+Package: rstr
+Version: 1.0
+Architecture: all
+Maintainer: Arijit Kumar Das <arijitkdgit.official@gmail.com>
+Depends: python3
+Filename: pool/main/rstr_1.0_all.apt.stable.main.deb
+Size: 3240
+MD5sum: 7a17db2977d6273bc5fd454836079ba9
+SHA1: 1e3adbff2170b3e2f970532b02d86f523425bca9
+SHA256: 87e127b63f3f68e410cda8be93dda6148bb6ce064167e230418d9be10fff298f
+Section: utils
+Priority: optional
+Homepage: https://github.com/ArijitKD/rstr
+Description: Generate a cryptographically secure random ASCII
+ string of a given length using the system's random bytes
+ generator.
+

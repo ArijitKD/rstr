@@ -1,0 +1,26 @@
+Origin: rstr repository
+Label: rstr
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: Generate a cryptographically secure random ASCII
+ string of a given length using the system's random bytes
+ generator.
+Date: Sun, 13 Jul 2025 20:39:36 +0000
+MD5Sum:
+ 4a36208abc5a3e859cca8121c751e6b7 422 dists/stable/main/binary-all/Packages.gz
+ 623371ae418cd178a6bfae6943c9339d 559 dists/stable/main/binary-all/Packages
+ 029d6317bcbe85ca2dab0b3b639586ef 449 dists/stable/Release
+ 7a17db2977d6273bc5fd454836079ba9 3240 pool/main/rstr_1.0_all.apt.stable.main.deb
+SHA1:
+ 811aa21f6a701ffcf09ef9de3ba02e9acabc0e94 422 dists/stable/main/binary-all/Packages.gz
+ 7251e2306f398c52d6ac44b12772ad60013b4c40 559 dists/stable/main/binary-all/Packages
+ c05e482d9c79009a618a945a1fc09f054b2a8ebe 825 dists/stable/Release
+ 1e3adbff2170b3e2f970532b02d86f523425bca9 3240 pool/main/rstr_1.0_all.apt.stable.main.deb
+SHA256:
+ 55a7b3641d0703627512b61f8e500850aee2aa92386d9de36c99c89b819b7462 422 dists/stable/main/binary-all/Packages.gz
+ 04c7bd0f98b5b80c31ce0676abda7b59bcb9e688d9134621d3a28cc944d8498e 559 dists/stable/main/binary-all/Packages
+ d34e943ecbc32b6f66e9ae3988c29e21607dfaa5000368339dd47e2757f575ca 1275 dists/stable/Release
+ 87e127b63f3f68e410cda8be93dda6148bb6ce064167e230418d9be10fff298f 3240 pool/main/rstr_1.0_all.apt.stable.main.deb

@@ -1,0 +1,86 @@
+[PACKAGE-MANAGER]
+apt
+[END]
+
+
+[DISTRIBUTION]
+stable
+[END]
+
+
+[COMPONENT]
+main
+[END]
+
+
+[SHELLSCRIPT]
+#!/bin/bash
+#
+# File: /usr/bin/rstr
+#
+# rstr - Generate a cryptographically secure random ASCII string of a given length
+# using the system's random bytes generator.
+#
+#
+# Copyright (C) 2025-Present Arijit Kumar Das <arijitkdgit.official@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+
+exec /usr/bin/python3 /usr/lib/rstr/rstr.py "$@"
+
+[END]
+
+
+[CONTROL]
+Package: rstr
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Arijit Kumar Das <arijitkdgit.official@gmail.com>
+Homepage: https://github.com/ArijitKD/rstr
+Description: Generate a cryptographically secure random ASCII
+ string of a given length using the system's random bytes
+ generator.
+[END]
+
+
+[SOURCES]
+src/rstr.py
+[END]
+
+
+[COPYRIGHT]
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rstr
+Source: https://github.com/ArijitKD/rstr
+
+Files: *
+Copyright: 2025-Present Arijit Kumar Das <arijitkdgit.official@gmail.com>
+License: GPL-3+
+
+License: GPL-3+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+[END]
+
+
