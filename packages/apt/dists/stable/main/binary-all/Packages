@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: all
 Maintainer: Arijit Kumar Das <arijitkdgit.official@gmail.com>
 Depends: python3
-Filename: pool/main/rstr_1.0_all.apt.stable.main.deb
+Filename: pool/main/rstr_1.0_all.deb
 Size: 3240
 MD5sum: 7a17db2977d6273bc5fd454836079ba9
 SHA1: 1e3adbff2170b3e2f970532b02d86f523425bca9
