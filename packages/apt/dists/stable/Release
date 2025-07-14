@@ -1,29 +1,30 @@
 Origin: rstr repository
 Label: rstr
-Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: all
+Description: generates a cryptographically secure random ASCII string
+ of a given length using the system's random bytes generator.
+Suite: stable
+Date: Mon, 14 Jul 2025 02:15:13 UTC
 Components: main
-Description: Generate a cryptographically secure random ASCII
- string of a given length using the system's random bytes
- generator.
-Date: Sun, 13 Jul 2025 23:04:07 +0000
 MD5Sum:
- 4ee189140c2149fba1df78346d613596 422 dists/stable/main/binary-all/Packages.gz
- 525335aa258413f7aacc810163987220 559 dists/stable/main/binary-all/Packages
- 63ef7774e17e79ae98086b5cdacaa301 1093 dists/stable/Release
- adba30332877e28a3cd5bdfe40f43c8a 3240 pool/main/rstr_1.0_all.apt.stable.main.deb
- 38b7cf2f590a1a77e81cf62d7cff83de 683 generate-release.sh
+ eb1395c200188b0fb77a7330d6877c30 699 main/binary-all/Packages
+ b7dc00090e2216a90b330cd8176008ba 588 main/binary-all/Packages.xz
+ 965fb84c9e7bcea8b843c6228bf444fb 258 main/Contents-all
+ 821ccaa4ee1597f54ecfdd2e7315e939 120 main/Contents-all.xz
 SHA1:
- 0e9e3289be5bd6aecb5197e4fa3dfbcd99482564 422 dists/stable/main/binary-all/Packages.gz
- 07cf393df6cbc55abcf920d7593b5099d4513535 559 dists/stable/main/binary-all/Packages
- f4d3b7405a3470879fe0e3fbe2a18cd11c934ff7 1093 dists/stable/Release
- 5b86ad00eec930e6611d04b46f9c985e45429c48 3240 pool/main/rstr_1.0_all.apt.stable.main.deb
- 8131096c5073a8c5c536a3fe1ac275088662f293 683 generate-release.sh
+ 11ff1a865851006e3326b56a72abd3993cf832f0 699 main/binary-all/Packages
+ b4e0370ee9548954e4ccd62a52cd15320520fab7 588 main/binary-all/Packages.xz
+ e1ceb3440070c11da32d5111ee5c9849fe6826d1 258 main/Contents-all
+ a6155066af6b89bfa121fa14a036883ddb0181b0 120 main/Contents-all.xz
 SHA256:
- 797ce3eaa8361eb52dc847c96930a79a2e4149093cdbf5a19701ec68860f7896 422 dists/stable/main/binary-all/Packages.gz
- 92c210cfca8ca8272b9c4e57ba3f78401ab9fd9af658e6b661e89b5b5f7e878e 559 dists/stable/main/binary-all/Packages
- faab165fb9f08cdda02e49b20ba334078d0ff33bc9bb921f25bd2af5cec3d43e 1093 dists/stable/Release
- 8566046546886375fcd3143aa53142afc59fe2fcab33d92289947c8608b2b2c4 3240 pool/main/rstr_1.0_all.apt.stable.main.deb
- 10414e035f766488482ac5445274d06cf5e98dc2113fca189268ea134927cafd 683 generate-release.sh
+ 08af4b03fb2a408cd0a496411dfbd1dcb1210eceafac08ed8455311678e2835e 699 main/binary-all/Packages
+ 49724480ee864f1cda66d110653782c19efae695326437e0d9d149fd3f764b68 588 main/binary-all/Packages.xz
+ 4cbb02c73104a37b5233b6c95e35b8587be397c7cd34f0556346b351616ecdd5 258 main/Contents-all
+ a2c0c45b13e531c4f48864a9da5f9f6168eea411b7408c8d24b305c2f1d13f15 120 main/Contents-all.xz
+SHA512:
+ d71a874bd45f2e16a6ea993836e99280ea5fcd99282faee9ca30961d865da0f64ba35c7c991b7f4fd05a1abcbfb91b7bb5196042180ce0f78608503ac83564e5 699 main/binary-all/Packages
+ 6533f095c26ee2a9bf9eaea8279e669216985f191a839f4bb259be3575d984773b6e4dbd43ef9d38cafeb24c54f41414e545d4208d9a753aa33307f52ae4d0e9 588 main/binary-all/Packages.xz
+ 323985cfb797647015a0656aa92a675b5fb6cf2ac144ae5303eb78dedb3b52e135541759b40e6d155e0cd386429b62b3e3cf43612eec7e750a8e3e2b4a95ddbf 258 main/Contents-all
+ 9f4939a68987cf34c997b8df3e4ad92b6b44c82b09564c824720e99cc8dd1127bc4c29d842744a10b4f08a6f6252fb13a440c27dc8e1d07f6dfed5ac2dfd4c3b 120 main/Contents-all.xz

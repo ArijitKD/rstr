@@ -9,10 +9,10 @@ Homepage: https://github.com/ArijitKD/rstr
 Description: Generate a cryptographically secure random ASCII
  string of a given length using the system's random bytes
  generator.
-Filename: dists/stable/main/binary-all/rstr_1.0_all.pkg.stable.main.deb
+Filename: dists/stable/main/binary-all/rstr_1.0_all.deb
 Size: 3296
-MD5Sum: 9bb4d1023993e6f3f64408df1a509f64
-SHA1: 2be36fb6c50c1a1672adcbfac448e8ae9c8d5731
-SHA256: a4438999d5a83afd60a0d421792bbfaac67615526eea89b22d2749e7e70b0c4f
-SHA512: b5c344099194d13730ff121d03565846e132486a4c5a2d06dacb7c4eb228667d79ad3bb34039e646a465e5293232934807ee0dce2a625c56ecce712677a7ece1
+MD5Sum: e9eeae1ebd26f563fdc254907dfb2b67
+SHA1: b53c7a6122cf21f9d7a955c8cab36dff398c45cd
+SHA256: ac252f85b32a82e71527d34242a1d989b9fb293970ff41ebd0354581d41f81f6
+SHA512: cd04041de95f662af5590abccbbf92239d8b89879195fa1eeb2a779a5825a9db12d11ab6fa2b48b0a352ac6bf5d2316821364c90b0d7f22748a2566bc7246cf3
 
